@@ -33,6 +33,7 @@ def define(words):
             "definition": definition,
             "example": example,
             "contributor": contributor,
+            "url": r.url,
         }
     except AttributeError:
         raise ValueError("Word not found: ", r.url)
