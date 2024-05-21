@@ -9,7 +9,7 @@ with open('README.md') as readme_file:
 setup(
    name="urbdict",
    version="0.1.0",
-   author="RoastSea8 (Aditya Tomar)",
+   author="adistomar (Aditya Tomar)",
    author_email="aditya26042005@gmail.com",
    description="A library for urbandictionary.com",
    license="MIT",
